@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 set -ex
 
 source .bluemix/pipeline-COMMON.sh
